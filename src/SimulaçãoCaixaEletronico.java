@@ -39,7 +39,7 @@ public class SimulaçãoCaixaEletronico {
             }
         }
 
-        System.out.println("\nObrigado por utilizar nosso caixa eletrônico!");
+        System.out.println("\nObrigado por utilizar o caixa eletrônico!");
         scanner.close();
     }
 }
