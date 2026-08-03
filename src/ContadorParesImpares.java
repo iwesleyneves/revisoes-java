@@ -17,7 +17,11 @@ public class ContadorParesImpares {
 			}
 		}
 		
+		scanner.close();
+		
 		System.out.println("Quantidade de numeros pares: "+pares);
 		System.out.println("Quantidade de numeros impares: "+impares);
 	}
+	
+	
 }

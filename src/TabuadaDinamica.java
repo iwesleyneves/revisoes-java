@@ -15,5 +15,6 @@ public class TabuadaDinamica {
 				System.out.println(numero+" x " + i + " = " +(numero * i));
 			}
 		}
+		scanner.close();
 	}
 }
